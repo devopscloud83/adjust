@@ -12,7 +12,9 @@ I will monitor two metrics frontend , backend and can monitor it through prometh
 Frontend metric
 
 HTTP requests per second
+
 Number of sessions created
+
 utilization (computed) Percentage of per second
 Number of request errors
 Requests denied due to security concerns (ACL-restricted)
