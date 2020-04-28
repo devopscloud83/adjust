@@ -3,10 +3,7 @@
 ## Question 1 Answer
 
 
-
-import random
-for x in range(10):
-  print(random.randint(1,10))
+Attaching  the script python-script.py
 
 ## Question 2 Answer
 
